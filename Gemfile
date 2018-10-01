@@ -20,8 +20,10 @@ gem 'coffee-rails', '~> 4.2'
 # gem 'therubyracer', platforms: :ruby
 
 gem 'devise'
+gem 'stripe'
 gem 'twitter-bootstrap-rails'
 gem 'devise-bootstrap-views'
+gem 'font-awesome-rails'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
